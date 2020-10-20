@@ -1,0 +1,96 @@
+body {
+	font-family: arial;
+}
+
+.container {
+	width: 700px;
+	background-color: #eee;
+	margin: 80px auto;
+	border-top: 10px solid #444;
+	padding: 20px 70px;
+	border-bottom: 5px solid #444;
+}
+
+header {
+	margin-bottom: 40px;
+}
+
+header h1 {
+	font-size: 24px;
+	margin-bottom: -10px;
+}
+
+header img {
+	float: right;
+	height: 80px;
+	margin-top: -10px;
+
+}
+
+.clear {
+	clear: both;
+}
+
+hr {
+	width:700px;
+}
+
+.judul {
+	width:200px;
+	float: left;
+}
+
+.isi {
+	float: left;
+	width:500px;
+}
+
+table {
+	margin-top: 20px;
+	width: 100%;
+	text-align: center;
+	border-collapse: collapse;
+	margin-bottom: 40px;
+}
+
+th, td {
+  padding: 15px;
+}
+
+li {
+	margin-left: -20px;
+	list-style-type: square;
+}
+
+.contact .isi {
+	text-align: center;
+}
+
+.contact .isi ul li{
+	display: inline-block;
+	margin-right: 100px;
+	margin-bottom: 20px;
+}
+
+a {
+	text-decoration: none;
+	color: darkblue;
+}
+
+a:hover {
+	font-size: 1.1em;
+	color: lightblue;
+}
+
+.contact {
+	margin-bottom: 180px;
+}
+
+footer {
+	text-align: center;
+}
+
+footer p {
+	font-size: 0.8em;
+	color: #999;
+}
